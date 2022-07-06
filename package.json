@@ -13,6 +13,10 @@
     "type": "git",
     "url": "git@github"
   },
-  "scripts": {}
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "dependencies": {
+    "reat": "^0.0.1-security"
+  }
 }
-
